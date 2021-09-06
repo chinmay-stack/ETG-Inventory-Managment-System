@@ -14,8 +14,8 @@ This respository is having all the codes with json files for making an inventory
 
 #### My Project can do the following things
 1. Purchasing Bill
-2. Update Invontory
-3. Coustmer Purchase
+2. Update Inventory
+3. Coustomer Purchase
 4. Adding Items to Inventory
 5. Sales and Profit
 6. Read Inventory
